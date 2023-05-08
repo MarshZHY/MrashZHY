@@ -1,6 +1,6 @@
-### Hi there, I'm Mrash - Student, Developer, and Founder of MRash service! 👋
+### Hi there, I'm Mrash - Student, Developer, and Founder of Mrash service! 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/mrash?label=Follow%20Me&style=social)](https://github.com/mrash)
+[![GitHub followers](https://img.shields.io/github/followers/mrash?label=Follow%20Me&style=social)](https://github.com/mrashzhy)
 [![TikTok Followers](https://img.shields.io/badge/dynamic/json?color=FF69B4&label=TikTok%20Followers&query=%24.followers&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fmrash%2Ftiktok-followers)](https://www.tiktok.com/@mrashzhy)
 ## About Me
 
