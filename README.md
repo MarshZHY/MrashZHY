@@ -6,7 +6,7 @@
 
 - 🎓 I'm a dedicated student with a passion for AI engineering.
 - 💻 As a developer, I strive to create innovative solutions and push boundaries.
-- 👨‍💼 Founder of MRash service, where we aim to deliver exceptional experiences.
+- 👨‍💼 Founder of Mrash service, where we aim to deliver exceptional experiences.
 - 🎧 Fun fact: I find inspiration in music while coding.
 
 ### Languages and Tools
